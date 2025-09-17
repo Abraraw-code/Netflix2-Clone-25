@@ -62,7 +62,7 @@ const Footer = () => {
         </ul>
       </div>
 
-      <p className="footer-note">© 2025 Netflix Clone. Abel Asmelash Haile.</p>
+      <p className="footer-note">© 2025 Netflix Clone. Sosena Hagos.</p>
     </footer>
   );
 };
